@@ -1,0 +1,9 @@
+STUDENT PLACEMENT SYSTEM
+
+DASHBOARD
+1.Total Students
+2.Eligible Students
+3.Companies visiting
+4.Students Placed
+
+
